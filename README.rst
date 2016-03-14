@@ -1,6 +1,12 @@
-README, different
-=================
+headline
+========
 
-RESTful readme.
+sub headline
+------------
 
-.. image:: building.png
+text..
+
+external link:  `Link text <http://example.com/>`_ 
+internal link:  `Link text <another.rst>`_ 
+
+.. image:: images/biohazard.png
